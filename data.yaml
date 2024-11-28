@@ -1,0 +1,12 @@
+path: your datasets path
+train: /train/images # train images (relative to 'path')
+val: /val/images # val images (relative to 'path')
+test: /test/images # val images (relative to 'path')
+
+#Classes
+ nc:  #(Your dataset category)
+
+# names:
+  0: "Category 1" #类别 1
+  1: "Category 2" #类别 2
+  #……
